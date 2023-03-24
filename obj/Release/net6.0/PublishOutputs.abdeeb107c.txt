@@ -1,0 +1,11 @@
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/app01
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/appsettings.json
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/app01.dll
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/app01.deps.json
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/app01.runtimeconfig.json
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/app01.pdb
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mchayapol/codes/pea/app01/webapi/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

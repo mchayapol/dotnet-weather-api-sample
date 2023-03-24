@@ -1,0 +1,11 @@
+/Users/mchayapol/codes/pea/app01/webapi/out/app01
+/Users/mchayapol/codes/pea/app01/webapi/out/appsettings.Development.json
+/Users/mchayapol/codes/pea/app01/webapi/out/appsettings.json
+/Users/mchayapol/codes/pea/app01/webapi/out/app01.dll
+/Users/mchayapol/codes/pea/app01/webapi/out/app01.deps.json
+/Users/mchayapol/codes/pea/app01/webapi/out/app01.runtimeconfig.json
+/Users/mchayapol/codes/pea/app01/webapi/out/app01.pdb
+/Users/mchayapol/codes/pea/app01/webapi/out/Microsoft.OpenApi.dll
+/Users/mchayapol/codes/pea/app01/webapi/out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mchayapol/codes/pea/app01/webapi/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mchayapol/codes/pea/app01/webapi/out/Swashbuckle.AspNetCore.SwaggerUI.dll
